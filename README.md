@@ -6,6 +6,12 @@
 ![IMG_2796](https://github.com/TortAlert/fabrika-bot/assets/60708873/9cf12e98-99e9-434d-9d29-72c06f33367d)
 ![IMG_2797](https://github.com/TortAlert/fabrika-bot/assets/60708873/df22c7e5-0a35-438e-928f-0ba4cfa5db4b)
 
+
+
+https://github.com/TortAlert/fabrika-bot/assets/60708873/d4f3c4af-00cf-46fe-9ab5-31391a0af2ce
+
+
+
 Необходимые элементы:
 - NRF,
 - NRF+,
@@ -21,6 +27,8 @@
 - powerbank,
 - servo 180,
 - needle.
+
+Все детали корпуса были вырезаны лазерной гравировкой по дереву из фонеры и склеены термоклеем.
 
 1. Joystick code: 
 
